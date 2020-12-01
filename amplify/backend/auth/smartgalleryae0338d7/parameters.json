@@ -1,6 +1,6 @@
 {
     "identityPoolName": "smartgalleryae0338d7_identitypool_ae0338d7",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "smartgae0338d7",
     "userPoolName": "smartgalleryae0338d7_userpool_ae0338d7",
     "autoVerifiedAttributes": [

@@ -1,0 +1,13 @@
+{
+    "resourceName": "sgs2t",
+    "convertPolicyName": "transcriptionPolicybc307bdb",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "transcription",
+    "language": "en-US",
+    "access": "auth"
+}
