@@ -1,9 +1,14 @@
 # Smart Gallery
-> Demo can be found at <a href= https://www.trinity-image-gallery.ga/ > this link</a>. 
+> Link can be found at <a href= https://www.trinity-image-gallery.ga/ > this link</a>. 
+
+## University : [San Jose State University](http://www.sjsu.edu/)
+## Course: [Cloud Technologies](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=2&coid=6785)
+## Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
 
 ## Table of contents
 * [General info](#general-info)
 * [Modules](#modules)
+* [Installation](#installation)
 * [Feature List](#feature-list)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
@@ -24,6 +29,35 @@ The uploaded images can also be viewed in Album mode, which presents the images 
 Finally, the application is hosted on Amplify which is complemented by Route53 for custom domain, so that anyone with the URL can access the application.
 
 During the development process, code was hosted on GitHub for CI/CD purposes with regular commits. In the beginning, we cloned from a central repository branch and developed our components, and then merged them back into a central repository branch which we hosted on AWS Amplify.
+
+## Installation
+
+### Pre-Requisites:
+
+For AWS
+* AWS CLI
+* AWS Amplify
+    * Amplify API using GraphQL
+    * Amplify Predictions
+    * Amplify Hosting
+    * Amplify Storage in S3
+    * Amplify Authentication in Cognito
+
+For Local Configuration
+* Nodejs
+* npm
+* Visual Studio Code IDE
+* <a href= https://unsplash.com/developers>Unsplash Dev project application with access key</a>
+
+### Setup
+
+Install all dependencies using `npm install`
+
+Add a .env file in root folder and add following line with API key from Unsplash:
+`REACT_APP_ACCESS_KEY = "Your API KEY"`
+
+Run application by calling `npm start`
+* http://localhost:3000
 
 ## Feature List
 
