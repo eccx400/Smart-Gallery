@@ -44,8 +44,6 @@ During the development process, code was hosted on GitHub for CI/CD purposes wit
 
 ![](./src/img/Home.PNG)
 
-![](./src/img/Upload.PNG)
-
 ![](./src/img/Album.PNG)
 
 ![](./src/img/Search.PNG)
