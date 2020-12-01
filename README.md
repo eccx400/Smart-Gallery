@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Modules](#modules)
 * [Feature List](#feature-list)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Contributors](#contributors)
 * [Status](#status)
@@ -38,6 +39,16 @@ During the development process, code was hosted on GitHub for CI/CD purposes wit
 * Autoscaling
 * Multi-AZ Redundancy
 * S3 Lifecycle Policy
+
+## Screenshots
+
+![](./src/img/Home.PNG)
+
+![](./src/img/Upload.PNG)
+
+![](./src/img/Album.PNG)
+
+![](./src/img/Search.PNG)
 
 ## Technologies
 * React and AWS Amplify
