@@ -10,6 +10,11 @@
       "StackName": "amplify-smartgallery-dev-212214",
       "StackId": "arn:aws:cloudformation:us-east-2:411548220055:stack/amplify-smartgallery-dev-212214/2e345f60-3395-11eb-802f-06f00b987afe",
       "AmplifyAppId": "d17me53d6ba85z"
+    },
+    "categories": {
+      "auth": {
+        "smartgalleryae0338d7": {}
+      }
     }
   }
 }

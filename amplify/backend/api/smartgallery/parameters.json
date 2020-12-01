@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "smartgallery",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authsmartgalleryae0338d7",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
