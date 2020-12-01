@@ -1,9 +1,10 @@
 # Smart Gallery
 > Link can be found at <a href= https://www.trinity-image-gallery.ga/ > this link</a>. 
 
-## University : [San Jose State University](http://www.sjsu.edu/)
-## Course: [Cloud Technologies](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=2&coid=6785)
-## Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
+| University | <a href= http://www.sjsu.edu/ >San Jose State University </a>                                         |
+|------------|-------------------------------------------------------------------------------------------------------|
+| Course     | <a href= http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html >CMPE 281 Cloud Technologies</a> |
+| Professor  | <a href= https://www.linkedin.com/in/sanjaygarje/ >Sanjay Garje </a>                                  |
 
 ## Table of contents
 * [General info](#general-info)
