@@ -1,5 +1,5 @@
 # Smart Gallery
-> Link can be found at <a href= https://www.imagegallery.cf/ > this link</a>. 
+> Demo can be found at <a href= https://www.trinity-image-gallery.ga/ > this link</a>. 
 
 ## Table of contents
 * [General info](#general-info)
