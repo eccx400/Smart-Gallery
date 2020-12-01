@@ -1,5 +1,5 @@
 # Smart Gallery
-> Link can be found at <a href= https://www.trinity-image-gallery.ga/ > this link</a>. 
+> Demo can be found at <a href= https://www.trinity-image-gallery.ga/ > this link</a>. 
 
 | University | <a href= http://www.sjsu.edu/ >San Jose State University </a>                                         |
 |------------|-------------------------------------------------------------------------------------------------------|
