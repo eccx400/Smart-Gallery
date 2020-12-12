@@ -85,8 +85,9 @@ Run application by calling `npm start`
 
 | Team Trinity               | GitHub Repositories                                                     |
 |----------------------------|-------------------------------------------------------------------------|
-| Archana Shokeen(015237378) | https://github.com/archanashokeeniitg/image-library-appsync/tree/phase2 |
-| Eric Cheng(015300506)      | https://github.com/eccx400/image_gallery                                |
-| Hung Le(010306088)         | https://github.com/HungVLe/amplify-image-gallery.git                    |
+| Archana Shokeen (015237378)| https://github.com/archanashokeeniitg/image-library-appsync/tree/phase2 |
+| Eric Cheng (015300506)     | https://github.com/eccx400/image_gallery                                |
+| Hung Le (010306088)        | https://github.com/HungVLe/amplify-image-gallery.git                    |
+
 ## Status
 Project is: _Completed_
